@@ -29,7 +29,7 @@ This phase implements the core audio processing functionality that teaches the c
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/soroush-thr/Auto-DJ.git
    cd Auto-DJ
    ```
 
@@ -162,6 +162,9 @@ MFCC Coefficients (averaged across time):
   MFCC[ 1]:    8.2341
   MFCC[ 2]:   -3.4567
   ... (13 coefficients total)
+
+<img width="1784" height="1181" alt="deep-abstract-ambient_snowcap" src="https://github.com/soroush-thr/Auto-DJ/blob/main/audio-waveforms/deep-abstract-ambient_snowcap.png" />
+
 ```
 
 ### Next Steps
