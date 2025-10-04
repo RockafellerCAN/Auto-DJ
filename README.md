@@ -163,9 +163,8 @@ MFCC Coefficients (averaged across time):
   MFCC[ 2]:   -3.4567
   ... (13 coefficients total)
 
-<img width="1784" height="1181" alt="deep-abstract-ambient_snowcap" src="https://github.com/soroush-thr/Auto-DJ/blob/main/audio-waveforms/deep-abstract-ambient_snowcap.png" />
-
 ```
+<img width="1784" height="1181" alt="deep-abstract-ambient_snowcap" src="https://github.com/soroush-thr/Auto-DJ/blob/main/audio-waveforms/deep-abstract-ambient_snowcap.png" />
 
 ### Next Steps
 
