@@ -1,0 +1,177 @@
+{
+  "audio-library\\A Sky Full Of Stars (Robin Schulz Edit)_Coldplay.mp3": {
+    "fingerprint": [
+      -27.582120895385742,
+      63.518558502197266,
+      0.03322484344244003,
+      30.1264591217041,
+      24.66495132446289,
+      16.081647872924805,
+      6.478344917297363,
+      7.058999061584473,
+      4.030356407165527,
+      4.840122222900391,
+      1.3905690908432007,
+      2.462425708770752,
+      -1.03290593624115
+    ],
+    "metadata": {
+      "file_path": "audio-library\\A Sky Full Of Stars (Robin Schulz Edit)_Coldplay.mp3",
+      "filename": "A Sky Full Of Stars (Robin Schulz Edit)_Coldplay.mp3",
+      "duration_seconds": 188.94367346938776,
+      "duration_minutes": 3.149061224489796,
+      "sample_rate": 22050,
+      "num_samples": 4166208
+    }
+  },
+  "audio-library\\A Sky Full Of Stars_Coldplay.mp3": {
+    "fingerprint": [
+      -88.31568145751953,
+      103.64366912841797,
+      2.236348867416382,
+      17.383413314819336,
+      6.910605430603027,
+      6.573251724243164,
+      -4.540346145629883,
+      4.3493547439575195,
+      0.2878012955188751,
+      -0.6846737265586853,
+      -2.1329281330108643,
+      2.404062509536743,
+      -1.9118247032165527
+    ],
+    "metadata": {
+      "file_path": "audio-library\\A Sky Full Of Stars_Coldplay.mp3",
+      "filename": "A Sky Full Of Stars_Coldplay.mp3",
+      "duration_seconds": 274.75591836734696,
+      "duration_minutes": 4.5792653061224495,
+      "sample_rate": 22050,
+      "num_samples": 6058368
+    }
+  },
+  "audio-library\\Fun_Coldplay ft. Tove Lo.mp3": {
+    "fingerprint": [
+      -93.30247497558594,
+      105.26494598388672,
+      -6.792042255401611,
+      26.994951248168945,
+      10.46804141998291,
+      5.536401271820068,
+      -0.850064754486084,
+      2.4463083744049072,
+      -2.8165743350982666,
+      -3.6181440353393555,
+      -5.7276153564453125,
+      2.9369115829467773,
+      -1.9734207391738892
+    ],
+    "metadata": {
+      "file_path": "audio-library\\Fun_Coldplay ft. Tove Lo.mp3",
+      "filename": "Fun_Coldplay ft. Tove Lo.mp3",
+      "duration_seconds": 267.5983673469388,
+      "duration_minutes": 4.459972789115647,
+      "sample_rate": 22050,
+      "num_samples": 5900544
+    }
+  },
+  "audio-library\\Hypnotised_Coldplay.mp3": {
+    "fingerprint": [
+      -65.63717651367188,
+      139.03445434570312,
+      -15.743674278259277,
+      15.396634101867676,
+      -3.721722364425659,
+      3.6772353649139404,
+      -6.0911335945129395,
+      -2.971161365509033,
+      -3.656900405883789,
+      -5.0297064781188965,
+      -0.5810403227806091,
+      2.2537896633148193,
+      -2.2992217540740967
+    ],
+    "metadata": {
+      "file_path": "audio-library\\Hypnotised_Coldplay.mp3",
+      "filename": "Hypnotised_Coldplay.mp3",
+      "duration_seconds": 354.1971882086168,
+      "duration_minutes": 5.903286470143613,
+      "sample_rate": 22050,
+      "num_samples": 7810048
+    }
+  },
+  "audio-library\\Paradise_Coldplay.mp3": {
+    "fingerprint": [
+      -72.80352020263672,
+      90.6320571899414,
+      -12.450496673583984,
+      24.683544158935547,
+      4.1753363609313965,
+      9.949789047241211,
+      -3.2195987701416016,
+      0.9491860270500183,
+      -2.3261916637420654,
+      1.0070226192474365,
+      -3.148298740386963,
+      -1.5948083400726318,
+      -3.8618390560150146
+    ],
+    "metadata": {
+      "file_path": "audio-library\\Paradise_Coldplay.mp3",
+      "filename": "Paradise_Coldplay.mp3",
+      "duration_seconds": 279.19673469387754,
+      "duration_minutes": 4.653278911564626,
+      "sample_rate": 22050,
+      "num_samples": 6156288
+    }
+  },
+  "audio-library\\Up&Up_Coldplay.mp3": {
+    "fingerprint": [
+      -92.0156021118164,
+      104.89459991455078,
+      -3.511007308959961,
+      26.268075942993164,
+      4.47068977355957,
+      6.162735939025879,
+      0.8818442821502686,
+      2.1842081546783447,
+      0.8791537284851074,
+      4.296982288360596,
+      -0.7821798324584961,
+      2.0344457626342773,
+      -1.4914880990982056
+    ],
+    "metadata": {
+      "file_path": "audio-library\\Up&Up_Coldplay.mp3",
+      "filename": "Up&Up_Coldplay.mp3",
+      "duration_seconds": 373.31591836734697,
+      "duration_minutes": 6.2219319727891165,
+      "sample_rate": 22050,
+      "num_samples": 8231616
+    }
+  },
+  "audio-library\\Viva La Vida_Coldplay.mp3": {
+    "fingerprint": [
+      -79.82814025878906,
+      109.05104064941406,
+      -15.038658142089844,
+      31.117311477661133,
+      -0.07039229571819305,
+      10.472912788391113,
+      -7.775640487670898,
+      3.8214633464813232,
+      -7.236161231994629,
+      2.060955762863159,
+      -0.005654040724039078,
+      -1.9294803142547607,
+      -1.8197760581970215
+    ],
+    "metadata": {
+      "file_path": "audio-library\\Viva La Vida_Coldplay.mp3",
+      "filename": "Viva La Vida_Coldplay.mp3",
+      "duration_seconds": 244.24489795918367,
+      "duration_minutes": 4.070748299319728,
+      "sample_rate": 22050,
+      "num_samples": 5385600
+    }
+  }
+}
