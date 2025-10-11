@@ -46,7 +46,7 @@ This phase builds upon Phase 1 to create a complete music library management sys
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/soroush-thr/Auto-DJ.git
    cd Auto-DJ
    ```
 
@@ -219,7 +219,9 @@ MFCC Coefficients (averaged across time):
   MFCC[ 1]:    8.2341
   MFCC[ 2]:   -3.4567
   ... (13 coefficients total)
+
 ```
+<img width="1784" height="1181" alt="deep-abstract-ambient_snowcap" src="https://github.com/soroush-thr/Auto-DJ/blob/main/audio-waveforms/deep-abstract-ambient_snowcap.png" />
 
 ### Next Steps
 
@@ -267,4 +269,4 @@ Phase 1 and Phase 2 are now complete! The system can successfully:
 
 ---
 
-*This project implements Phase 1 and Phase 2 of the Auto-DJ system as described in the project plan. The complete library management and similarity analysis system is now ready for Phase 3: user interface and playlist generation.*
+*This project implements Phase 1 of the Auto-DJ system as described in the project plan. The acoustic fingerprinting system is now ready to be integrated with a music library scanner and similarity engine in Phase 2.*
