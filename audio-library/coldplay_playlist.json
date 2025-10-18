@@ -1,0 +1,43 @@
+{
+  "playlist_name": "coldp",
+  "total_songs": 4,
+  "total_duration_minutes": 19.52522448979592,
+  "songs": [
+    {
+      "position": 1,
+      "file_path": "audio-library\\Paradise_Coldplay.mp3",
+      "filename": "Paradise_Coldplay.mp3",
+      "duration_seconds": 279.19673469387754,
+      "duration_minutes": 4.653278911564626,
+      "similarity_score": 0.2984783351421356,
+      "sample_rate": 22050
+    },
+    {
+      "position": 2,
+      "file_path": "audio-library\\Viva La Vida_Coldplay.mp3",
+      "filename": "Viva La Vida_Coldplay.mp3",
+      "duration_seconds": 244.24489795918367,
+      "duration_minutes": 4.070748299319728,
+      "similarity_score": 0.2112055867910385,
+      "sample_rate": 22050
+    },
+    {
+      "position": 3,
+      "file_path": "audio-library\\A Sky Full Of Stars_Coldplay.mp3",
+      "filename": "A Sky Full Of Stars_Coldplay.mp3",
+      "duration_seconds": 274.75591836734696,
+      "duration_minutes": 4.5792653061224495,
+      "similarity_score": 0.2108403444290161,
+      "sample_rate": 22050
+    },
+    {
+      "position": 4,
+      "file_path": "audio-library\\Up&Up_Coldplay.mp3",
+      "filename": "Up&Up_Coldplay.mp3",
+      "duration_seconds": 373.31591836734697,
+      "duration_minutes": 6.2219319727891165,
+      "similarity_score": 0.20019924640655518,
+      "sample_rate": 22050
+    }
+  ]
+}

@@ -17,7 +17,7 @@ from pathlib import Path
 import logging
 from sklearn.metrics.pairwise import cosine_similarity
 
-from audio_processor import AudioProcessor
+from .audio_processor import AudioProcessor
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
@@ -198,6 +198,9 @@ class LibraryManager:
         try:
             logger.info(f"Saving library database to: {self.database_path}")
             
+            # Create directory if it doesn't exist
+            os.makedirs(os.path.dirname(self.database_path), exist_ok=True)
+            
             # Convert numpy arrays to lists for JSON serialization
             serializable_data = {}
             for file_path, song_data in self.library_data.items():
@@ -266,13 +269,14 @@ class LibraryManager:
             logger.error(f"Error calculating similarity: {str(e)}")
             raise
     
-    def find_similar_songs(self, seed_file_path: str, top_n: int = 10) -> List[Tuple[str, float, Dict]]:
+    def find_similar_songs(self, seed_file_path: str, top_n: int = 10, include_seed: bool = False) -> List[Tuple[str, float, Dict]]:
         """
         Find songs similar to a seed song.
         
         Args:
             seed_file_path: Path to the seed song
             top_n: Number of similar songs to return
+            include_seed: Whether to include the seed song itself in results
             
         Returns:
             List of tuples: (file_path, similarity_score, metadata)
@@ -290,10 +294,10 @@ class LibraryManager:
             seed_fingerprint = self.library_data[seed_file_path]['fingerprint']
             similarities = []
             
-            # Calculate similarity to all other songs
+            # Calculate similarity to all songs (including seed if requested)
             for file_path, song_data in self.library_data.items():
-                if file_path == seed_file_path:
-                    continue  # Skip the seed song itself
+                if file_path == seed_file_path and not include_seed:
+                    continue  # Skip the seed song itself unless requested
                 
                 similarity = self.calculate_similarity(seed_fingerprint, song_data['fingerprint'])
                 similarities.append((file_path, similarity, song_data['metadata']))

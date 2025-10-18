@@ -49,6 +49,31 @@
       "num_samples": 6058368
     }
   },
+  "audio-library\\Everglow_Coldplay.mp3": {
+    "fingerprint": [
+      -147.56674194335938,
+      149.1559295654297,
+      8.113531112670898,
+      22.29337501525879,
+      9.001860618591309,
+      14.167774200439453,
+      0.49872729182243347,
+      4.614871501922607,
+      -0.5159226059913635,
+      2.401644706726074,
+      4.532979965209961,
+      3.8777682781219482,
+      3.44271183013916
+    ],
+    "metadata": {
+      "file_path": "audio-library\\Everglow_Coldplay.mp3",
+      "filename": "Everglow_Coldplay.mp3",
+      "duration_seconds": 282.749387755102,
+      "duration_minutes": 4.712489795918367,
+      "sample_rate": 22050,
+      "num_samples": 6234624
+    }
+  },
   "audio-library\\Fun_Coldplay ft. Tove Lo.mp3": {
     "fingerprint": [
       -93.30247497558594,
@@ -72,6 +97,31 @@
       "duration_minutes": 4.459972789115647,
       "sample_rate": 22050,
       "num_samples": 5900544
+    }
+  },
+  "audio-library\\Gravity_Coldplay.mp3": {
+    "fingerprint": [
+      -164.86404418945312,
+      149.2163543701172,
+      1.3953869342803955,
+      13.125341415405273,
+      10.1771879196167,
+      3.500244379043579,
+      -4.3279924392700195,
+      3.523846387863159,
+      -12.934061050415039,
+      -7.5430169105529785,
+      -9.5728120803833,
+      -10.18529987335205,
+      -4.986059188842773
+    ],
+    "metadata": {
+      "file_path": "audio-library\\Gravity_Coldplay.mp3",
+      "filename": "Gravity_Coldplay.mp3",
+      "duration_seconds": 377.0,
+      "duration_minutes": 6.283333333333333,
+      "sample_rate": 22050,
+      "num_samples": 8312850
     }
   },
   "audio-library\\Hypnotised_Coldplay.mp3": {
